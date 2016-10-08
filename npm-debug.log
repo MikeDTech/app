@@ -1,0 +1,749 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\NodeJS\\node.exe',
+1 verbose cli   'C:\\NodeJS\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'i',
+1 verbose cli   'gulp-minify',
+1 verbose cli   'gulp-clean-css',
+1 verbose cli   'minimatch',
+1 verbose cli   'graceful-fs',
+1 verbose cli   'segment/to-iso-string',
+1 verbose cli   'phantomjs-prebuilt',
+1 verbose cli   'tough-cookie',
+1 verbose cli   'marked',
+1 verbose cli   'jsonlint',
+1 verbose cli   'jshint',
+1 verbose cli   'phantomjs-prebuilt',
+1 verbose cli   'tough-cookie',
+1 verbose cli   'phantomjs-prebuilt',
+1 verbose cli   '--save-dev' ]
+2 info using npm@3.10.3
+3 info using node@v6.7.0
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 silly fetchPackageMetaData gulp-minify
+8 silly fetchPackageMetaData gulp-clean-css
+9 silly fetchPackageMetaData minimatch
+10 silly fetchPackageMetaData graceful-fs
+11 silly fetchPackageMetaData segment/to-iso-string
+12 silly fetchPackageMetaData phantomjs-prebuilt@^2.1.4
+13 silly fetchPackageMetaData tough-cookie
+14 silly fetchPackageMetaData marked
+15 silly fetchPackageMetaData jsonlint
+16 silly fetchPackageMetaData jshint
+17 silly fetchPackageMetaData phantomjs-prebuilt@^2.1.4
+18 silly fetchPackageMetaData tough-cookie
+19 silly fetchPackageMetaData phantomjs-prebuilt@^2.1.4
+20 silly fetchNamedPackageData phantomjs-prebuilt
+21 silly mapToRegistry name phantomjs-prebuilt
+22 silly mapToRegistry using default registry
+23 silly mapToRegistry registry https://registry.npmjs.org/
+24 silly mapToRegistry data Result {
+24 silly mapToRegistry   raw: 'phantomjs-prebuilt',
+24 silly mapToRegistry   scope: null,
+24 silly mapToRegistry   escapedName: 'phantomjs-prebuilt',
+24 silly mapToRegistry   name: 'phantomjs-prebuilt',
+24 silly mapToRegistry   rawSpec: '',
+24 silly mapToRegistry   spec: 'latest',
+24 silly mapToRegistry   type: 'tag' }
+25 silly mapToRegistry uri https://registry.npmjs.org/phantomjs-prebuilt
+26 silly fetchNamedPackageData phantomjs-prebuilt
+27 silly mapToRegistry name phantomjs-prebuilt
+28 silly mapToRegistry using default registry
+29 silly mapToRegistry registry https://registry.npmjs.org/
+30 silly mapToRegistry data Result {
+30 silly mapToRegistry   raw: 'phantomjs-prebuilt',
+30 silly mapToRegistry   scope: null,
+30 silly mapToRegistry   escapedName: 'phantomjs-prebuilt',
+30 silly mapToRegistry   name: 'phantomjs-prebuilt',
+30 silly mapToRegistry   rawSpec: '',
+30 silly mapToRegistry   spec: 'latest',
+30 silly mapToRegistry   type: 'tag' }
+31 silly mapToRegistry uri https://registry.npmjs.org/phantomjs-prebuilt
+32 silly fetchNamedPackageData phantomjs-prebuilt
+33 silly mapToRegistry name phantomjs-prebuilt
+34 silly mapToRegistry using default registry
+35 silly mapToRegistry registry https://registry.npmjs.org/
+36 silly mapToRegistry data Result {
+36 silly mapToRegistry   raw: 'phantomjs-prebuilt',
+36 silly mapToRegistry   scope: null,
+36 silly mapToRegistry   escapedName: 'phantomjs-prebuilt',
+36 silly mapToRegistry   name: 'phantomjs-prebuilt',
+36 silly mapToRegistry   rawSpec: '',
+36 silly mapToRegistry   spec: 'latest',
+36 silly mapToRegistry   type: 'tag' }
+37 silly mapToRegistry uri https://registry.npmjs.org/phantomjs-prebuilt
+38 silly fetchNamedPackageData gulp-minify
+39 silly mapToRegistry name gulp-minify
+40 silly mapToRegistry using default registry
+41 silly mapToRegistry registry https://registry.npmjs.org/
+42 silly mapToRegistry data Result {
+42 silly mapToRegistry   raw: 'gulp-minify',
+42 silly mapToRegistry   scope: null,
+42 silly mapToRegistry   escapedName: 'gulp-minify',
+42 silly mapToRegistry   name: 'gulp-minify',
+42 silly mapToRegistry   rawSpec: '',
+42 silly mapToRegistry   spec: 'latest',
+42 silly mapToRegistry   type: 'tag' }
+43 silly mapToRegistry uri https://registry.npmjs.org/gulp-minify
+44 silly fetchNamedPackageData gulp-clean-css
+45 silly mapToRegistry name gulp-clean-css
+46 silly mapToRegistry using default registry
+47 silly mapToRegistry registry https://registry.npmjs.org/
+48 silly mapToRegistry data Result {
+48 silly mapToRegistry   raw: 'gulp-clean-css',
+48 silly mapToRegistry   scope: null,
+48 silly mapToRegistry   escapedName: 'gulp-clean-css',
+48 silly mapToRegistry   name: 'gulp-clean-css',
+48 silly mapToRegistry   rawSpec: '',
+48 silly mapToRegistry   spec: 'latest',
+48 silly mapToRegistry   type: 'tag' }
+49 silly mapToRegistry uri https://registry.npmjs.org/gulp-clean-css
+50 silly fetchNamedPackageData minimatch
+51 silly mapToRegistry name minimatch
+52 silly mapToRegistry using default registry
+53 silly mapToRegistry registry https://registry.npmjs.org/
+54 silly mapToRegistry data Result {
+54 silly mapToRegistry   raw: 'minimatch',
+54 silly mapToRegistry   scope: null,
+54 silly mapToRegistry   escapedName: 'minimatch',
+54 silly mapToRegistry   name: 'minimatch',
+54 silly mapToRegistry   rawSpec: '',
+54 silly mapToRegistry   spec: 'latest',
+54 silly mapToRegistry   type: 'tag' }
+55 silly mapToRegistry uri https://registry.npmjs.org/minimatch
+56 silly fetchNamedPackageData graceful-fs
+57 silly mapToRegistry name graceful-fs
+58 silly mapToRegistry using default registry
+59 silly mapToRegistry registry https://registry.npmjs.org/
+60 silly mapToRegistry data Result {
+60 silly mapToRegistry   raw: 'graceful-fs',
+60 silly mapToRegistry   scope: null,
+60 silly mapToRegistry   escapedName: 'graceful-fs',
+60 silly mapToRegistry   name: 'graceful-fs',
+60 silly mapToRegistry   rawSpec: '',
+60 silly mapToRegistry   spec: 'latest',
+60 silly mapToRegistry   type: 'tag' }
+61 silly mapToRegistry uri https://registry.npmjs.org/graceful-fs
+62 silly fetchOtherPackageData segment/to-iso-string
+63 silly cache add args [ 'segment/to-iso-string', null ]
+64 verbose cache add spec segment/to-iso-string
+65 silly fetchNamedPackageData tough-cookie
+66 silly mapToRegistry name tough-cookie
+67 silly mapToRegistry using default registry
+68 silly mapToRegistry registry https://registry.npmjs.org/
+69 silly mapToRegistry data Result {
+69 silly mapToRegistry   raw: 'tough-cookie',
+69 silly mapToRegistry   scope: null,
+69 silly mapToRegistry   escapedName: 'tough-cookie',
+69 silly mapToRegistry   name: 'tough-cookie',
+69 silly mapToRegistry   rawSpec: '',
+69 silly mapToRegistry   spec: 'latest',
+69 silly mapToRegistry   type: 'tag' }
+70 silly mapToRegistry uri https://registry.npmjs.org/tough-cookie
+71 silly fetchNamedPackageData marked
+72 silly mapToRegistry name marked
+73 silly mapToRegistry using default registry
+74 silly mapToRegistry registry https://registry.npmjs.org/
+75 silly mapToRegistry data Result {
+75 silly mapToRegistry   raw: 'marked',
+75 silly mapToRegistry   scope: null,
+75 silly mapToRegistry   escapedName: 'marked',
+75 silly mapToRegistry   name: 'marked',
+75 silly mapToRegistry   rawSpec: '',
+75 silly mapToRegistry   spec: 'latest',
+75 silly mapToRegistry   type: 'tag' }
+76 silly mapToRegistry uri https://registry.npmjs.org/marked
+77 silly fetchNamedPackageData jshint
+78 silly mapToRegistry name jshint
+79 silly mapToRegistry using default registry
+80 silly mapToRegistry registry https://registry.npmjs.org/
+81 silly mapToRegistry data Result {
+81 silly mapToRegistry   raw: 'jshint',
+81 silly mapToRegistry   scope: null,
+81 silly mapToRegistry   escapedName: 'jshint',
+81 silly mapToRegistry   name: 'jshint',
+81 silly mapToRegistry   rawSpec: '',
+81 silly mapToRegistry   spec: 'latest',
+81 silly mapToRegistry   type: 'tag' }
+82 silly mapToRegistry uri https://registry.npmjs.org/jshint
+83 silly fetchNamedPackageData jsonlint
+84 silly mapToRegistry name jsonlint
+85 silly mapToRegistry using default registry
+86 silly mapToRegistry registry https://registry.npmjs.org/
+87 silly mapToRegistry data Result {
+87 silly mapToRegistry   raw: 'jsonlint',
+87 silly mapToRegistry   scope: null,
+87 silly mapToRegistry   escapedName: 'jsonlint',
+87 silly mapToRegistry   name: 'jsonlint',
+87 silly mapToRegistry   rawSpec: '',
+87 silly mapToRegistry   spec: 'latest',
+87 silly mapToRegistry   type: 'tag' }
+88 silly mapToRegistry uri https://registry.npmjs.org/jsonlint
+89 silly fetchNamedPackageData tough-cookie
+90 silly mapToRegistry name tough-cookie
+91 silly mapToRegistry using default registry
+92 silly mapToRegistry registry https://registry.npmjs.org/
+93 silly mapToRegistry data Result {
+93 silly mapToRegistry   raw: 'tough-cookie',
+93 silly mapToRegistry   scope: null,
+93 silly mapToRegistry   escapedName: 'tough-cookie',
+93 silly mapToRegistry   name: 'tough-cookie',
+93 silly mapToRegistry   rawSpec: '',
+93 silly mapToRegistry   spec: 'latest',
+93 silly mapToRegistry   type: 'tag' }
+94 silly mapToRegistry uri https://registry.npmjs.org/tough-cookie
+95 silly cache add parsed spec Result {
+95 silly cache add   raw: 'segment/to-iso-string',
+95 silly cache add   scope: null,
+95 silly cache add   escapedName: null,
+95 silly cache add   name: null,
+95 silly cache add   rawSpec: 'segment/to-iso-string',
+95 silly cache add   spec: 'github:segment/to-iso-string',
+95 silly cache add   type: 'hosted',
+95 silly cache add   hosted:
+95 silly cache add    { type: 'github',
+95 silly cache add      ssh: 'git@github.com:segment/to-iso-string.git',
+95 silly cache add      sshUrl: 'git+ssh://git@github.com/segment/to-iso-string.git',
+95 silly cache add      httpsUrl: 'git+https://github.com/segment/to-iso-string.git',
+95 silly cache add      gitUrl: 'git://github.com/segment/to-iso-string.git',
+95 silly cache add      shortcut: 'github:segment/to-iso-string',
+95 silly cache add      directUrl: 'https://raw.githubusercontent.com/segment/to-iso-string/master/package.json' } }
+96 verbose addRemoteGit caching segment/to-iso-string
+97 verbose addRemoteGit segment/to-iso-string is a repository hosted by github
+98 silly tryGitProto attempting to clone git://github.com/segment/to-iso-string.git
+99 silly tryClone cloning segment/to-iso-string via git://github.com/segment/to-iso-string.git
+100 verbose tryClone git-github-com-segment-to-iso-string-git-385e4963 not in flight; caching
+101 verbose correctMkdir C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes correctMkdir not in flight; initializing
+102 verbose request uri https://registry.npmjs.org/phantomjs-prebuilt
+103 verbose request no auth needed
+104 info attempt registry request try #1 at 11:31:49 PM
+105 verbose request id 8999daea6fa81fe9
+106 verbose etag "72S8EJSK4BS26PBXL6NNH7EEZ"
+107 http request GET https://registry.npmjs.org/phantomjs-prebuilt
+108 verbose request uri https://registry.npmjs.org/phantomjs-prebuilt
+109 verbose request no auth needed
+110 info attempt registry request try #1 at 11:31:49 PM
+111 verbose etag "72S8EJSK4BS26PBXL6NNH7EEZ"
+112 http request GET https://registry.npmjs.org/phantomjs-prebuilt
+113 verbose request uri https://registry.npmjs.org/phantomjs-prebuilt
+114 verbose request no auth needed
+115 info attempt registry request try #1 at 11:31:49 PM
+116 verbose etag "72S8EJSK4BS26PBXL6NNH7EEZ"
+117 http request GET https://registry.npmjs.org/phantomjs-prebuilt
+118 verbose request uri https://registry.npmjs.org/gulp-clean-css
+119 verbose request no auth needed
+120 info attempt registry request try #1 at 11:31:49 PM
+121 verbose etag "DL1V5HRW8KCGRRL1F7DUZ61AC"
+122 http request GET https://registry.npmjs.org/gulp-clean-css
+123 verbose request uri https://registry.npmjs.org/minimatch
+124 verbose request no auth needed
+125 info attempt registry request try #1 at 11:31:49 PM
+126 verbose etag "974JNSN0SRV8GQCWTF99CRSFX"
+127 http request GET https://registry.npmjs.org/minimatch
+128 verbose request uri https://registry.npmjs.org/graceful-fs
+129 verbose request no auth needed
+130 info attempt registry request try #1 at 11:31:49 PM
+131 verbose etag "2ASULY6ZFM8L28BA4YWM7WPF7"
+132 http request GET https://registry.npmjs.org/graceful-fs
+133 verbose request uri https://registry.npmjs.org/tough-cookie
+134 verbose request no auth needed
+135 info attempt registry request try #1 at 11:31:49 PM
+136 verbose etag "6KWV979SWKZFNOWA2D1LXPISW"
+137 http request GET https://registry.npmjs.org/tough-cookie
+138 verbose request uri https://registry.npmjs.org/marked
+139 verbose request no auth needed
+140 info attempt registry request try #1 at 11:31:49 PM
+141 verbose etag "8B9DI57BEDVB7SU4F32YUP3U2"
+142 http request GET https://registry.npmjs.org/marked
+143 verbose request uri https://registry.npmjs.org/jshint
+144 verbose request no auth needed
+145 info attempt registry request try #1 at 11:31:49 PM
+146 verbose etag "C4EIFECNPSMML1ASMFWY4Z1OS"
+147 http request GET https://registry.npmjs.org/jshint
+148 verbose request uri https://registry.npmjs.org/jsonlint
+149 verbose request no auth needed
+150 info attempt registry request try #1 at 11:31:49 PM
+151 verbose etag "8Q1YNUF99X01DBVID4UHMQLC7"
+152 http request GET https://registry.npmjs.org/jsonlint
+153 verbose request uri https://registry.npmjs.org/tough-cookie
+154 verbose request no auth needed
+155 info attempt registry request try #1 at 11:31:49 PM
+156 verbose etag "6KWV979SWKZFNOWA2D1LXPISW"
+157 http request GET https://registry.npmjs.org/tough-cookie
+158 verbose request uri https://registry.npmjs.org/gulp-minify
+159 verbose request no auth needed
+160 info attempt registry request try #1 at 11:31:49 PM
+161 verbose etag "LANLVPG366MLJY6607DYJKP5"
+162 http request GET https://registry.npmjs.org/gulp-minify
+163 info git [ 'config', '--get', 'remote.origin.url' ]
+164 warn addRemoteGit Error: Command failed: git -c core.longpaths=true config --get remote.origin.url
+164 warn addRemoteGit
+164 warn addRemoteGit     at ChildProcess.exithandler (child_process.js:206:12)
+164 warn addRemoteGit     at emitTwo (events.js:106:13)
+164 warn addRemoteGit     at ChildProcess.emit (events.js:191:7)
+164 warn addRemoteGit     at maybeClose (internal/child_process.js:877:16)
+164 warn addRemoteGit     at Socket.<anonymous> (internal/child_process.js:334:11)
+164 warn addRemoteGit     at emitOne (events.js:96:13)
+164 warn addRemoteGit     at Socket.emit (events.js:188:7)
+164 warn addRemoteGit     at Pipe._handle.close [as _onclose] (net.js:493:12)
+164 warn addRemoteGit  segment/to-iso-string resetting remote C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-github-com-segment-to-iso-string-git-385e4963 because of error: { Error: Command failed: git -c core.longpaths=true config --get remote.origin.url
+164 warn addRemoteGit
+164 warn addRemoteGit     at ChildProcess.exithandler (child_process.js:206:12)
+164 warn addRemoteGit     at emitTwo (events.js:106:13)
+164 warn addRemoteGit     at ChildProcess.emit (events.js:191:7)
+164 warn addRemoteGit     at maybeClose (internal/child_process.js:877:16)
+164 warn addRemoteGit     at Socket.<anonymous> (internal/child_process.js:334:11)
+164 warn addRemoteGit     at emitOne (events.js:96:13)
+164 warn addRemoteGit     at Socket.emit (events.js:188:7)
+164 warn addRemoteGit     at Pipe._handle.close [as _onclose] (net.js:493:12)
+164 warn addRemoteGit   killed: false,
+164 warn addRemoteGit   code: 1,
+164 warn addRemoteGit   signal: null,
+164 warn addRemoteGit   cmd: 'git -c core.longpaths=true config --get remote.origin.url' }
+165 info resetRemote resetting C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-github-com-segment-to-iso-string-git-385e4963 for segment/to-iso-string
+166 silly gentlyRm C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-github-com-segment-to-iso-string-git-385e4963 is being purged
+167 verbose gentlyRm don't care about contents; nuking C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-github-com-segment-to-iso-string-git-385e4963
+168 silly vacuum-fs purging C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-github-com-segment-to-iso-string-git-385e4963
+169 silly vacuum-fs quitting because other entries in C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes
+170 info git [ 'clone',
+170 info git   '--template=C:\\Users\\Mike\\AppData\\Roaming\\npm-cache\\_git-remotes\\_templates',
+170 info git   '--mirror',
+170 info git   'git://github.com/segment/to-iso-string.git',
+170 info git   'C:\\Users\\Mike\\AppData\\Roaming\\npm-cache\\_git-remotes\\git-github-com-segment-to-iso-string-git-385e4963' ]
+171 http 304 https://registry.npmjs.org/tough-cookie
+172 verbose headers { date: 'Sat, 08 Oct 2016 03:31:50 GMT',
+172 verbose headers   via: '1.1 varnish',
+172 verbose headers   'cache-control': 'max-age=300',
+172 verbose headers   etag: '"6KWV979SWKZFNOWA2D1LXPISW"',
+172 verbose headers   age: '196',
+172 verbose headers   connection: 'keep-alive',
+172 verbose headers   'x-served-by': 'cache-jfk8121-JFK',
+172 verbose headers   'x-cache': 'HIT',
+172 verbose headers   'x-cache-hits': '4',
+172 verbose headers   'x-timer': 'S1475897510.999973,VS0,VE0',
+172 verbose headers   vary: 'Accept-Encoding' }
+173 silly get cb [ 304,
+173 silly get   { date: 'Sat, 08 Oct 2016 03:31:50 GMT',
+173 silly get     via: '1.1 varnish',
+173 silly get     'cache-control': 'max-age=300',
+173 silly get     etag: '"6KWV979SWKZFNOWA2D1LXPISW"',
+173 silly get     age: '196',
+173 silly get     connection: 'keep-alive',
+173 silly get     'x-served-by': 'cache-jfk8121-JFK',
+173 silly get     'x-cache': 'HIT',
+173 silly get     'x-cache-hits': '4',
+173 silly get     'x-timer': 'S1475897510.999973,VS0,VE0',
+173 silly get     vary: 'Accept-Encoding' } ]
+174 verbose etag https://registry.npmjs.org/tough-cookie from cache
+175 verbose get saving tough-cookie to C:\Users\Mike\AppData\Roaming\npm-cache\registry.npmjs.org\tough-cookie\.cache.json
+176 verbose correctMkdir C:\Users\Mike\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+177 http 304 https://registry.npmjs.org/graceful-fs
+178 verbose headers { date: 'Sat, 08 Oct 2016 03:31:50 GMT',
+178 verbose headers   via: '1.1 varnish',
+178 verbose headers   'cache-control': 'max-age=300',
+178 verbose headers   etag: '"2ASULY6ZFM8L28BA4YWM7WPF7"',
+178 verbose headers   age: '85',
+178 verbose headers   connection: 'keep-alive',
+178 verbose headers   'x-served-by': 'cache-jfk8144-JFK',
+178 verbose headers   'x-cache': 'HIT',
+178 verbose headers   'x-cache-hits': '6',
+178 verbose headers   'x-timer': 'S1475897510.999920,VS0,VE0',
+178 verbose headers   vary: 'Accept-Encoding' }
+179 silly get cb [ 304,
+179 silly get   { date: 'Sat, 08 Oct 2016 03:31:50 GMT',
+179 silly get     via: '1.1 varnish',
+179 silly get     'cache-control': 'max-age=300',
+179 silly get     etag: '"2ASULY6ZFM8L28BA4YWM7WPF7"',
+179 silly get     age: '85',
+179 silly get     connection: 'keep-alive',
+179 silly get     'x-served-by': 'cache-jfk8144-JFK',
+179 silly get     'x-cache': 'HIT',
+179 silly get     'x-cache-hits': '6',
+179 silly get     'x-timer': 'S1475897510.999920,VS0,VE0',
+179 silly get     vary: 'Accept-Encoding' } ]
+180 verbose etag https://registry.npmjs.org/graceful-fs from cache
+181 verbose get saving graceful-fs to C:\Users\Mike\AppData\Roaming\npm-cache\registry.npmjs.org\graceful-fs\.cache.json
+182 verbose correctMkdir C:\Users\Mike\AppData\Roaming\npm-cache correctMkdir already in flight; waiting
+183 http 304 https://registry.npmjs.org/marked
+184 verbose headers { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+184 verbose headers   via: '1.1 varnish',
+184 verbose headers   'cache-control': 'max-age=300',
+184 verbose headers   etag: '"8B9DI57BEDVB7SU4F32YUP3U2"',
+184 verbose headers   age: '161',
+184 verbose headers   connection: 'keep-alive',
+184 verbose headers   'x-served-by': 'cache-jfk8142-JFK',
+184 verbose headers   'x-cache': 'HIT',
+184 verbose headers   'x-cache-hits': '1',
+184 verbose headers   'x-timer': 'S1475897511.000236,VS0,VE0',
+184 verbose headers   vary: 'Accept-Encoding' }
+185 silly get cb [ 304,
+185 silly get   { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+185 silly get     via: '1.1 varnish',
+185 silly get     'cache-control': 'max-age=300',
+185 silly get     etag: '"8B9DI57BEDVB7SU4F32YUP3U2"',
+185 silly get     age: '161',
+185 silly get     connection: 'keep-alive',
+185 silly get     'x-served-by': 'cache-jfk8142-JFK',
+185 silly get     'x-cache': 'HIT',
+185 silly get     'x-cache-hits': '1',
+185 silly get     'x-timer': 'S1475897511.000236,VS0,VE0',
+185 silly get     vary: 'Accept-Encoding' } ]
+186 verbose etag https://registry.npmjs.org/marked from cache
+187 verbose get saving marked to C:\Users\Mike\AppData\Roaming\npm-cache\registry.npmjs.org\marked\.cache.json
+188 verbose correctMkdir C:\Users\Mike\AppData\Roaming\npm-cache correctMkdir already in flight; waiting
+189 http 304 https://registry.npmjs.org/phantomjs-prebuilt
+190 verbose headers { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+190 verbose headers   via: '1.1 varnish',
+190 verbose headers   'cache-control': 'max-age=300',
+190 verbose headers   etag: '"72S8EJSK4BS26PBXL6NNH7EEZ"',
+190 verbose headers   age: '135',
+190 verbose headers   connection: 'keep-alive',
+190 verbose headers   'x-served-by': 'cache-jfk8120-JFK',
+190 verbose headers   'x-cache': 'HIT',
+190 verbose headers   'x-cache-hits': '1',
+190 verbose headers   'x-timer': 'S1475897511.000124,VS0,VE0',
+190 verbose headers   vary: 'Accept-Encoding' }
+191 silly get cb [ 304,
+191 silly get   { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+191 silly get     via: '1.1 varnish',
+191 silly get     'cache-control': 'max-age=300',
+191 silly get     etag: '"72S8EJSK4BS26PBXL6NNH7EEZ"',
+191 silly get     age: '135',
+191 silly get     connection: 'keep-alive',
+191 silly get     'x-served-by': 'cache-jfk8120-JFK',
+191 silly get     'x-cache': 'HIT',
+191 silly get     'x-cache-hits': '1',
+191 silly get     'x-timer': 'S1475897511.000124,VS0,VE0',
+191 silly get     vary: 'Accept-Encoding' } ]
+192 verbose etag https://registry.npmjs.org/phantomjs-prebuilt from cache
+193 verbose get saving phantomjs-prebuilt to C:\Users\Mike\AppData\Roaming\npm-cache\registry.npmjs.org\phantomjs-prebuilt\.cache.json
+194 verbose correctMkdir C:\Users\Mike\AppData\Roaming\npm-cache correctMkdir already in flight; waiting
+195 http 304 https://registry.npmjs.org/tough-cookie
+196 verbose headers { date: 'Sat, 08 Oct 2016 03:31:50 GMT',
+196 verbose headers   via: '1.1 varnish',
+196 verbose headers   'cache-control': 'max-age=300',
+196 verbose headers   etag: '"6KWV979SWKZFNOWA2D1LXPISW"',
+196 verbose headers   age: '196',
+196 verbose headers   connection: 'keep-alive',
+196 verbose headers   'x-served-by': 'cache-jfk8144-JFK',
+196 verbose headers   'x-cache': 'HIT',
+196 verbose headers   'x-cache-hits': '5',
+196 verbose headers   'x-timer': 'S1475897510.999913,VS0,VE0',
+196 verbose headers   vary: 'Accept-Encoding' }
+197 silly get cb [ 304,
+197 silly get   { date: 'Sat, 08 Oct 2016 03:31:50 GMT',
+197 silly get     via: '1.1 varnish',
+197 silly get     'cache-control': 'max-age=300',
+197 silly get     etag: '"6KWV979SWKZFNOWA2D1LXPISW"',
+197 silly get     age: '196',
+197 silly get     connection: 'keep-alive',
+197 silly get     'x-served-by': 'cache-jfk8144-JFK',
+197 silly get     'x-cache': 'HIT',
+197 silly get     'x-cache-hits': '5',
+197 silly get     'x-timer': 'S1475897510.999913,VS0,VE0',
+197 silly get     vary: 'Accept-Encoding' } ]
+198 verbose etag https://registry.npmjs.org/tough-cookie from cache
+199 verbose get saving tough-cookie to C:\Users\Mike\AppData\Roaming\npm-cache\registry.npmjs.org\tough-cookie\.cache.json
+200 verbose correctMkdir C:\Users\Mike\AppData\Roaming\npm-cache correctMkdir already in flight; waiting
+201 http 304 https://registry.npmjs.org/phantomjs-prebuilt
+202 verbose headers { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+202 verbose headers   via: '1.1 varnish',
+202 verbose headers   'cache-control': 'max-age=300',
+202 verbose headers   etag: '"72S8EJSK4BS26PBXL6NNH7EEZ"',
+202 verbose headers   age: '136',
+202 verbose headers   connection: 'keep-alive',
+202 verbose headers   'x-served-by': 'cache-jfk8146-JFK',
+202 verbose headers   'x-cache': 'HIT',
+202 verbose headers   'x-cache-hits': '2',
+202 verbose headers   'x-timer': 'S1475897511.011484,VS0,VE0',
+202 verbose headers   vary: 'Accept-Encoding' }
+203 silly get cb [ 304,
+203 silly get   { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+203 silly get     via: '1.1 varnish',
+203 silly get     'cache-control': 'max-age=300',
+203 silly get     etag: '"72S8EJSK4BS26PBXL6NNH7EEZ"',
+203 silly get     age: '136',
+203 silly get     connection: 'keep-alive',
+203 silly get     'x-served-by': 'cache-jfk8146-JFK',
+203 silly get     'x-cache': 'HIT',
+203 silly get     'x-cache-hits': '2',
+203 silly get     'x-timer': 'S1475897511.011484,VS0,VE0',
+203 silly get     vary: 'Accept-Encoding' } ]
+204 verbose etag https://registry.npmjs.org/phantomjs-prebuilt from cache
+205 verbose get saving phantomjs-prebuilt to C:\Users\Mike\AppData\Roaming\npm-cache\registry.npmjs.org\phantomjs-prebuilt\.cache.json
+206 verbose correctMkdir C:\Users\Mike\AppData\Roaming\npm-cache correctMkdir already in flight; waiting
+207 http 304 https://registry.npmjs.org/gulp-clean-css
+208 verbose headers { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+208 verbose headers   via: '1.1 varnish',
+208 verbose headers   'cache-control': 'max-age=300',
+208 verbose headers   etag: '"DL1V5HRW8KCGRRL1F7DUZ61AC"',
+208 verbose headers   age: '283',
+208 verbose headers   connection: 'keep-alive',
+208 verbose headers   'x-served-by': 'cache-jfk8128-JFK',
+208 verbose headers   'x-cache': 'HIT',
+208 verbose headers   'x-cache-hits': '1',
+208 verbose headers   'x-timer': 'S1475897511.011651,VS0,VE0',
+208 verbose headers   vary: 'Accept-Encoding' }
+209 silly get cb [ 304,
+209 silly get   { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+209 silly get     via: '1.1 varnish',
+209 silly get     'cache-control': 'max-age=300',
+209 silly get     etag: '"DL1V5HRW8KCGRRL1F7DUZ61AC"',
+209 silly get     age: '283',
+209 silly get     connection: 'keep-alive',
+209 silly get     'x-served-by': 'cache-jfk8128-JFK',
+209 silly get     'x-cache': 'HIT',
+209 silly get     'x-cache-hits': '1',
+209 silly get     'x-timer': 'S1475897511.011651,VS0,VE0',
+209 silly get     vary: 'Accept-Encoding' } ]
+210 verbose etag https://registry.npmjs.org/gulp-clean-css from cache
+211 verbose get saving gulp-clean-css to C:\Users\Mike\AppData\Roaming\npm-cache\registry.npmjs.org\gulp-clean-css\.cache.json
+212 verbose correctMkdir C:\Users\Mike\AppData\Roaming\npm-cache correctMkdir already in flight; waiting
+213 http 304 https://registry.npmjs.org/jshint
+214 verbose headers { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+214 verbose headers   via: '1.1 varnish',
+214 verbose headers   'cache-control': 'max-age=300',
+214 verbose headers   etag: '"C4EIFECNPSMML1ASMFWY4Z1OS"',
+214 verbose headers   age: '1',
+214 verbose headers   connection: 'keep-alive',
+214 verbose headers   'x-served-by': 'cache-jfk8139-JFK',
+214 verbose headers   'x-cache': 'HIT',
+214 verbose headers   'x-cache-hits': '1',
+214 verbose headers   'x-timer': 'S1475897511.011489,VS0,VE0',
+214 verbose headers   vary: 'Accept-Encoding' }
+215 silly get cb [ 304,
+215 silly get   { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+215 silly get     via: '1.1 varnish',
+215 silly get     'cache-control': 'max-age=300',
+215 silly get     etag: '"C4EIFECNPSMML1ASMFWY4Z1OS"',
+215 silly get     age: '1',
+215 silly get     connection: 'keep-alive',
+215 silly get     'x-served-by': 'cache-jfk8139-JFK',
+215 silly get     'x-cache': 'HIT',
+215 silly get     'x-cache-hits': '1',
+215 silly get     'x-timer': 'S1475897511.011489,VS0,VE0',
+215 silly get     vary: 'Accept-Encoding' } ]
+216 verbose etag https://registry.npmjs.org/jshint from cache
+217 verbose get saving jshint to C:\Users\Mike\AppData\Roaming\npm-cache\registry.npmjs.org\jshint\.cache.json
+218 verbose correctMkdir C:\Users\Mike\AppData\Roaming\npm-cache correctMkdir already in flight; waiting
+219 http 304 https://registry.npmjs.org/jsonlint
+220 verbose headers { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+220 verbose headers   via: '1.1 varnish',
+220 verbose headers   'cache-control': 'max-age=300',
+220 verbose headers   etag: '"8Q1YNUF99X01DBVID4UHMQLC7"',
+220 verbose headers   age: '161',
+220 verbose headers   connection: 'keep-alive',
+220 verbose headers   'x-served-by': 'cache-jfk8148-JFK',
+220 verbose headers   'x-cache': 'HIT',
+220 verbose headers   'x-cache-hits': '1',
+220 verbose headers   'x-timer': 'S1475897511.029498,VS0,VE0',
+220 verbose headers   vary: 'Accept-Encoding' }
+221 silly get cb [ 304,
+221 silly get   { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+221 silly get     via: '1.1 varnish',
+221 silly get     'cache-control': 'max-age=300',
+221 silly get     etag: '"8Q1YNUF99X01DBVID4UHMQLC7"',
+221 silly get     age: '161',
+221 silly get     connection: 'keep-alive',
+221 silly get     'x-served-by': 'cache-jfk8148-JFK',
+221 silly get     'x-cache': 'HIT',
+221 silly get     'x-cache-hits': '1',
+221 silly get     'x-timer': 'S1475897511.029498,VS0,VE0',
+221 silly get     vary: 'Accept-Encoding' } ]
+222 verbose etag https://registry.npmjs.org/jsonlint from cache
+223 verbose get saving jsonlint to C:\Users\Mike\AppData\Roaming\npm-cache\registry.npmjs.org\jsonlint\.cache.json
+224 verbose correctMkdir C:\Users\Mike\AppData\Roaming\npm-cache correctMkdir already in flight; waiting
+225 http 304 https://registry.npmjs.org/phantomjs-prebuilt
+226 verbose headers { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+226 verbose headers   via: '1.1 varnish',
+226 verbose headers   'cache-control': 'max-age=300',
+226 verbose headers   etag: '"72S8EJSK4BS26PBXL6NNH7EEZ"',
+226 verbose headers   age: '136',
+226 verbose headers   connection: 'keep-alive',
+226 verbose headers   'x-served-by': 'cache-jfk8150-JFK',
+226 verbose headers   'x-cache': 'HIT',
+226 verbose headers   'x-cache-hits': '1',
+226 verbose headers   'x-timer': 'S1475897511.029728,VS0,VE0',
+226 verbose headers   vary: 'Accept-Encoding' }
+227 silly get cb [ 304,
+227 silly get   { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+227 silly get     via: '1.1 varnish',
+227 silly get     'cache-control': 'max-age=300',
+227 silly get     etag: '"72S8EJSK4BS26PBXL6NNH7EEZ"',
+227 silly get     age: '136',
+227 silly get     connection: 'keep-alive',
+227 silly get     'x-served-by': 'cache-jfk8150-JFK',
+227 silly get     'x-cache': 'HIT',
+227 silly get     'x-cache-hits': '1',
+227 silly get     'x-timer': 'S1475897511.029728,VS0,VE0',
+227 silly get     vary: 'Accept-Encoding' } ]
+228 verbose etag https://registry.npmjs.org/phantomjs-prebuilt from cache
+229 verbose get saving phantomjs-prebuilt to C:\Users\Mike\AppData\Roaming\npm-cache\registry.npmjs.org\phantomjs-prebuilt\.cache.json
+230 verbose correctMkdir C:\Users\Mike\AppData\Roaming\npm-cache correctMkdir already in flight; waiting
+231 http 304 https://registry.npmjs.org/minimatch
+232 verbose headers { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+232 verbose headers   via: '1.1 varnish',
+232 verbose headers   'cache-control': 'max-age=300',
+232 verbose headers   etag: '"974JNSN0SRV8GQCWTF99CRSFX"',
+232 verbose headers   age: '88',
+232 verbose headers   connection: 'keep-alive',
+232 verbose headers   'x-served-by': 'cache-jfk8134-JFK',
+232 verbose headers   'x-cache': 'HIT',
+232 verbose headers   'x-cache-hits': '9',
+232 verbose headers   'x-timer': 'S1475897511.075766,VS0,VE0',
+232 verbose headers   vary: 'Accept-Encoding' }
+233 silly get cb [ 304,
+233 silly get   { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+233 silly get     via: '1.1 varnish',
+233 silly get     'cache-control': 'max-age=300',
+233 silly get     etag: '"974JNSN0SRV8GQCWTF99CRSFX"',
+233 silly get     age: '88',
+233 silly get     connection: 'keep-alive',
+233 silly get     'x-served-by': 'cache-jfk8134-JFK',
+233 silly get     'x-cache': 'HIT',
+233 silly get     'x-cache-hits': '9',
+233 silly get     'x-timer': 'S1475897511.075766,VS0,VE0',
+233 silly get     vary: 'Accept-Encoding' } ]
+234 verbose etag https://registry.npmjs.org/minimatch from cache
+235 verbose get saving minimatch to C:\Users\Mike\AppData\Roaming\npm-cache\registry.npmjs.org\minimatch\.cache.json
+236 verbose correctMkdir C:\Users\Mike\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+237 error git clone --template=C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\_templates --mirror git://github.com/segment/to-iso-string.git C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-github-com-segment-to-iso-string-git-385e4963: Cloning into bare repository 'C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-github-com-segment-to-iso-string-git-385e4963'...
+237 error git clone --template=C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\_templates --mirror git://github.com/segment/to-iso-string.git C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-github-com-segment-to-iso-string-git-385e4963: fatal: remote error:
+237 error git clone --template=C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\_templates --mirror git://github.com/segment/to-iso-string.git C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-github-com-segment-to-iso-string-git-385e4963:   Repository not found.
+238 silly tryHTTPS attempting to clone git+https://github.com/segment/to-iso-string.git
+239 silly tryClone cloning segment/to-iso-string via git+https://github.com/segment/to-iso-string.git
+240 verbose tryClone git-https-github-com-segment-to-iso-string-git-8a51baf9 not in flight; caching
+241 verbose correctMkdir C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes correctMkdir not in flight; initializing
+242 info git [ 'config', '--get', 'remote.origin.url' ]
+243 http 304 https://registry.npmjs.org/gulp-minify
+244 verbose headers { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+244 verbose headers   via: '1.1 varnish',
+244 verbose headers   'cache-control': 'max-age=300',
+244 verbose headers   etag: '"LANLVPG366MLJY6607DYJKP5"',
+244 verbose headers   age: '0',
+244 verbose headers   connection: 'keep-alive',
+244 verbose headers   'x-served-by': 'cache-jfk8127-JFK',
+244 verbose headers   'x-cache': 'HIT',
+244 verbose headers   'x-cache-hits': '1',
+244 verbose headers   'x-timer': 'S1475897511.000044,VS0,VE400',
+244 verbose headers   vary: 'Accept-Encoding' }
+245 silly get cb [ 304,
+245 silly get   { date: 'Sat, 08 Oct 2016 03:31:51 GMT',
+245 silly get     via: '1.1 varnish',
+245 silly get     'cache-control': 'max-age=300',
+245 silly get     etag: '"LANLVPG366MLJY6607DYJKP5"',
+245 silly get     age: '0',
+245 silly get     connection: 'keep-alive',
+245 silly get     'x-served-by': 'cache-jfk8127-JFK',
+245 silly get     'x-cache': 'HIT',
+245 silly get     'x-cache-hits': '1',
+245 silly get     'x-timer': 'S1475897511.000044,VS0,VE400',
+245 silly get     vary: 'Accept-Encoding' } ]
+246 verbose etag https://registry.npmjs.org/gulp-minify from cache
+247 verbose get saving gulp-minify to C:\Users\Mike\AppData\Roaming\npm-cache\registry.npmjs.org\gulp-minify\.cache.json
+248 verbose correctMkdir C:\Users\Mike\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+249 warn addRemoteGit Error: Command failed: git -c core.longpaths=true config --get remote.origin.url
+249 warn addRemoteGit
+249 warn addRemoteGit     at ChildProcess.exithandler (child_process.js:206:12)
+249 warn addRemoteGit     at emitTwo (events.js:106:13)
+249 warn addRemoteGit     at ChildProcess.emit (events.js:191:7)
+249 warn addRemoteGit     at maybeClose (internal/child_process.js:877:16)
+249 warn addRemoteGit     at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
+249 warn addRemoteGit  segment/to-iso-string resetting remote C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-https-github-com-segment-to-iso-string-git-8a51baf9 because of error: { Error: Command failed: git -c core.longpaths=true config --get remote.origin.url
+249 warn addRemoteGit
+249 warn addRemoteGit     at ChildProcess.exithandler (child_process.js:206:12)
+249 warn addRemoteGit     at emitTwo (events.js:106:13)
+249 warn addRemoteGit     at ChildProcess.emit (events.js:191:7)
+249 warn addRemoteGit     at maybeClose (internal/child_process.js:877:16)
+249 warn addRemoteGit     at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
+249 warn addRemoteGit   killed: false,
+249 warn addRemoteGit   code: 1,
+249 warn addRemoteGit   signal: null,
+249 warn addRemoteGit   cmd: 'git -c core.longpaths=true config --get remote.origin.url' }
+250 info resetRemote resetting C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-https-github-com-segment-to-iso-string-git-8a51baf9 for segment/to-iso-string
+251 silly gentlyRm C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-https-github-com-segment-to-iso-string-git-8a51baf9 is being purged
+252 verbose gentlyRm don't care about contents; nuking C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-https-github-com-segment-to-iso-string-git-8a51baf9
+253 silly vacuum-fs purging C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-https-github-com-segment-to-iso-string-git-8a51baf9
+254 silly vacuum-fs quitting because other entries in C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes
+255 info git [ 'clone',
+255 info git   '--template=C:\\Users\\Mike\\AppData\\Roaming\\npm-cache\\_git-remotes\\_templates',
+255 info git   '--mirror',
+255 info git   'https://github.com/segment/to-iso-string.git',
+255 info git   'C:\\Users\\Mike\\AppData\\Roaming\\npm-cache\\_git-remotes\\git-https-github-com-segment-to-iso-string-git-8a51baf9' ]
+256 error git clone --template=C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\_templates --mirror https://github.com/segment/to-iso-string.git C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-https-github-com-segment-to-iso-string-git-8a51baf9: Cloning into bare repository 'C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-https-github-com-segment-to-iso-string-git-8a51baf9'...
+256 error git clone --template=C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\_templates --mirror https://github.com/segment/to-iso-string.git C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-https-github-com-segment-to-iso-string-git-8a51baf9: remote: Repository not found.
+256 error git clone --template=C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\_templates --mirror https://github.com/segment/to-iso-string.git C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-https-github-com-segment-to-iso-string-git-8a51baf9: fatal: repository 'https://github.com/segment/to-iso-string.git/' not found
+257 silly trySSH attempting to clone git@github.com:segment/to-iso-string.git
+258 silly tryClone cloning segment/to-iso-string via git@github.com:segment/to-iso-string.git
+259 verbose tryClone git-github-com-segment-to-iso-string-git-e2abc47c not in flight; caching
+260 verbose correctMkdir C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes correctMkdir not in flight; initializing
+261 info git [ 'config', '--get', 'remote.origin.url' ]
+262 silly validateExistingRemote segment/to-iso-string remote.origin.url: git@github.com:segment/to-iso-string.git
+263 verbose validateExistingRemote segment/to-iso-string is updating existing cached remote C:\Users\Mike\AppData\Roaming\npm-cache\_git-remotes\git-github-com-segment-to-iso-string-git-e2abc47c
+264 info git [ 'fetch', '-a', 'origin' ]
+265 error git fetch -a origin (git@github.com:segment/to-iso-string.git) Permission denied (publickey).
+265 error git fetch -a origin (git@github.com:segment/to-iso-string.git) fatal: Could not read from remote repository.
+265 error git fetch -a origin (git@github.com:segment/to-iso-string.git)
+265 error git fetch -a origin (git@github.com:segment/to-iso-string.git) Please make sure you have the correct access rights
+265 error git fetch -a origin (git@github.com:segment/to-iso-string.git) and the repository exists.
+266 silly fetchPackageMetaData Error: Command failed: git -c core.longpaths=true fetch -a origin
+266 silly fetchPackageMetaData Permission denied (publickey).
+266 silly fetchPackageMetaData fatal: Could not read from remote repository.
+266 silly fetchPackageMetaData
+266 silly fetchPackageMetaData Please make sure you have the correct access rights
+266 silly fetchPackageMetaData and the repository exists.
+266 silly fetchPackageMetaData
+266 silly fetchPackageMetaData     at ChildProcess.exithandler (child_process.js:206:12)
+266 silly fetchPackageMetaData     at emitTwo (events.js:106:13)
+266 silly fetchPackageMetaData     at ChildProcess.emit (events.js:191:7)
+266 silly fetchPackageMetaData     at maybeClose (internal/child_process.js:877:16)
+266 silly fetchPackageMetaData     at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
+266 silly fetchPackageMetaData  error for segment/to-iso-string { Error: Command failed: git -c core.longpaths=true fetch -a origin
+266 silly fetchPackageMetaData Permission denied (publickey).
+266 silly fetchPackageMetaData fatal: Could not read from remote repository.
+266 silly fetchPackageMetaData
+266 silly fetchPackageMetaData Please make sure you have the correct access rights
+266 silly fetchPackageMetaData and the repository exists.
+266 silly fetchPackageMetaData
+266 silly fetchPackageMetaData     at ChildProcess.exithandler (child_process.js:206:12)
+266 silly fetchPackageMetaData     at emitTwo (events.js:106:13)
+266 silly fetchPackageMetaData     at ChildProcess.emit (events.js:191:7)
+266 silly fetchPackageMetaData     at maybeClose (internal/child_process.js:877:16)
+266 silly fetchPackageMetaData     at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
+266 silly fetchPackageMetaData   killed: false,
+266 silly fetchPackageMetaData   code: 128,
+266 silly fetchPackageMetaData   signal: null,
+266 silly fetchPackageMetaData   cmd: 'git -c core.longpaths=true fetch -a origin' }
+267 silly rollbackFailedOptional Starting
+268 silly rollbackFailedOptional Finishing
+269 silly runTopLevelLifecycles Starting
+270 silly runTopLevelLifecycles Finishing
+271 silly install printInstalled
+272 verbose stack Error: Command failed: git -c core.longpaths=true fetch -a origin
+272 verbose stack Permission denied (publickey).
+272 verbose stack fatal: Could not read from remote repository.
+272 verbose stack
+272 verbose stack Please make sure you have the correct access rights
+272 verbose stack and the repository exists.
+272 verbose stack
+272 verbose stack     at ChildProcess.exithandler (child_process.js:206:12)
+272 verbose stack     at emitTwo (events.js:106:13)
+272 verbose stack     at ChildProcess.emit (events.js:191:7)
+272 verbose stack     at maybeClose (internal/child_process.js:877:16)
+272 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
+273 verbose cwd C:\Users\Mike\Desktop\Web Projects\ng-demos\app
+274 error Windows_NT 10.0.14393
+275 error argv "C:\\NodeJS\\node.exe" "C:\\NodeJS\\node_modules\\npm\\bin\\npm-cli.js" "i" "gulp-minify" "gulp-clean-css" "minimatch" "graceful-fs" "segment/to-iso-string" "phantomjs-prebuilt" "tough-cookie" "marked" "jsonlint" "jshint" "phantomjs-prebuilt" "tough-cookie" "phantomjs-prebuilt" "--save-dev"
+276 error node v6.7.0
+277 error npm  v3.10.3
+278 error code 128
+279 error Command failed: git -c core.longpaths=true fetch -a origin
+279 error Permission denied (publickey).
+279 error fatal: Could not read from remote repository.
+279 error
+279 error Please make sure you have the correct access rights
+279 error and the repository exists.
+280 error If you need help, you may report this error at:
+280 error     <https://github.com/npm/npm/issues>
+281 verbose exit [ 1, true ]

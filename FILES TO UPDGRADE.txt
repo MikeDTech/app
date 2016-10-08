@@ -1,0 +1,51 @@
+Enable NodeJS Under Settings in Webstorm ***************
+File > Settings > Resource Root
+npm install -g bower gulp nodemon
+mkdir myapp
+cd my app\node_modules\phantomjs-prebuilt
+yo hottowel [appname]
+
+# Git Commit
+vcs > git >branches > [appname] Enter twice and a commit message
+
+#CMD
+git add *
+git commit -m "Message"
+
+.git\refs\heads > Local Branches
+.git\refs\remotes > Contains Remote Branches
+
+npm install gulp-minify gulp-clean-css minimatch graceful-fs segment/to-iso-string phantomjs-prebuilt
+npm uninstall phantomjs
+npm install -g marked jsonlint jshint phantomjs-prebuilt tough-cookie
+npm install gulp-minify gulp-clean-css minimatch graceful-fs segment/to-iso-string phantomjs-prebuilt --sav-dev
+
+ C:\Users\Mike\Desktop\Web Projects\ng-demos\app\node_modules\phantomjs\lib\phantom\bin\phantomjs.exe
+
+
+npm WARN deprecated gulp-minify-css@1.2.4: Please use gulp-clean-css
+npm WARN deprecated minimatch@2.0.10: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+npm WARN deprecated tough-cookie@2.2.2: ReDoS vulnerability parsing Set-Cookie https://nodesecurity.io/advisories/130
+npm WARN deprecated minimatch@0.2.14: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+npm WARN deprecated graceful-fs@1.2.3: graceful-fs v3.0.0 and before will fail on node releases >= v7.0. Please update to graceful-fs@^4.0.0 as soon as possible. Use 'npm ls graceful-fs' to find it in the tree.
+npm WARN deprecated minimatch@1.0.0: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+npm WARN deprecated jade@0.26.3: Jade has been renamed to pug, please install the latest version of pug instead of jade
+npm WARN deprecated to-iso-string@0.0.2: to-iso-string has been deprecated, use @segment/to-iso-string instead.
+npm WARN deprecated minimatch@0.3.0: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+npm WARN deprecated graceful-fs@2.0.3: graceful-fs v3.0.0 and before will fail on node releases >= v7.0. Please update to graceful-fs@^4.0.0 as soon as possible. Use 'npm ls graceful-fs' to find it in the tree.
+npm WARN prefer global marked@0.3.6 should be installed with -g
+npm WARN prefer global jsonlint@1.6.2 should be installed with -g
+npm WARN prefer global jshint@2.9.3 should be installed with -g
+
+> phantomjs-prebuilt@2.1.13 install C:\Users\Mike\Desktop\Web Projects\ng-demos\app\node_modules\phantomjs-prebuilt
+> node install.js
+
+Considering PhantomJS found at C:\Users\Mike\AppData\Roaming\npm\phantomjs.CMD
+Looks like an `npm install -g` on windows; skipping installed version.
+Download already available at C:\Users\Mike\AppData\Local\Temp\phantomjs\phantomjs-2.1.1-windows.zip
+Verified checksum of previously downloaded file
+Extracting zip contents
+Removing C:\Users\Mike\Desktop\Web Projects\ng-demos\app\node_modules\phantomjs-prebuilt\lib\phantom
+Copying extracted folder C:\Users\Mike\AppData\Local\Temp\phantomjs\phantomjs-2.1.1-windows.zip-extract-1475887163068\phantomjs-2.1.1-windows -> C:\Users\Mike\Desktop\Web Projects\ng-demos\app\node_modules\phantomjs-prebuilt\lib\phantom
+Writing location.js file
+Done. Phantomjs binary available at C:\Users\Mike\Desktop\Web Projects\ng-demos\app\node_modules\phantomjs-prebuilt\lib\phantom\bin\phantomjs.exe
